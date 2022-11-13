@@ -296,9 +296,9 @@ html {
     width: calc(50% - 30px);
 }
 
-.skills .skills-content .left p {
+/*.skills .skills-content .left p {
     text-align: justify;
-}
+}*/
 
 .skills .skills-content .left a {
     display: inline-block;
